@@ -1,0 +1,6 @@
+1. print report
+2. fcheck resources sufficient?
+3. process coins
+4. check transaction successful?
+6. make coffee
+
